@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  .line_result{
+    position: relative;
+    /* border: 1px solid green; */
+
+  }
+
+  .line_result svg{
+    position:absolute;
+    /* right: 10px; */
+
+    /* border: 1px solid red; */
+  }
+
+  
+  button{
+    margin-top: 100px;
+  }
+
